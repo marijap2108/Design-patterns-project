@@ -1,0 +1,9 @@
+Created point x: 132 y: 154 color: -16777216
+Created rectangle upperLeftPoint: x: 453 y: 134 width: 40 height: 70 innerColor: -16777216 outlineColor: -1
+Created donut center: x: 583 y: 268 radius: 50 innerColor: -16777216 outlineColor: -1 innerRadius: 30
+Updated donut from center: x: 583 y: 268 radius: 50 innerColor: -16777216 outlineColor: -1 innerRadius: 30 to center: x: 583 y: 168 radius: 50 innerColor: -3407617 outlineColor: -1 innerRadius: 10
+Undo Updated donut from center: x: 583 y: 268 radius: 50 innerColor: -16777216 outlineColor: -1 innerRadius: 30 to center: x: 583 y: 168 radius: 50 innerColor: -3407617 outlineColor: -1 innerRadius: 10
+Redo Updated donut from center: x: 583 y: 268 radius: 50 innerColor: -16777216 outlineColor: -1 innerRadius: 30 to center: x: 583 y: 168 radius: 50 innerColor: -3407617 outlineColor: -1 innerRadius: 10
+Removed donut center: x: 583 y: 168 radius: 50 innerColor: -3407617 outlineColor: -1 innerRadius: 10
+Removed rectangle upperLeftPoint: x: 453 y: 134 width: 40 height: 70 innerColor: -16777216 outlineColor: -1
+Created hexagon x: 341 y: 224 radius: 30 innerColor: -16777216 outlineColor: -1
